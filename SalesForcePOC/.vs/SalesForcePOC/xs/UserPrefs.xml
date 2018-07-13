@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{496E0728-FB3C-4062-81C7-E339BAB9D0CA}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SalesForcePOC/Pages/UAHomePage.cs">
+    <Files>
+      <File FileName="SalesForcePOC/TestSuite/SalesForceTest.cs" Line="26" Column="63" />
+      <File FileName="SalesForcePOC/Lib/CommonLibrary.cs" Line="68" Column="2" />
+      <File FileName="SalesForcePOC/Pages/LoginPage.cs" Line="34" Column="42" />
+      <File FileName="SalesForcePOC/Pages/HomePage.cs" Line="1" Column="1" />
+      <File FileName="SalesForcePOC/TestSuite/UnitedAirlinesTest.cs" Line="21" Column="34" />
+      <File FileName="SalesForcePOC/Pages/UAHomePage.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SalesForcePOC" expanded="True">
+            <Node name="SalesForcePOC" expanded="True">
+              <Node name="TestSuite" expanded="True">
+                <Node name="UnitedAirlinesTest" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SalesForcePOC PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

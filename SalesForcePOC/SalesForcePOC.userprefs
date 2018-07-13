@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SalesForcePOC/SalesForceTest.cs">
+    <Files>
+      <File FileName="SalesForcePOC/SalesForceTest.cs" Line="9" Column="15" />
+      <File FileName="SalesForcePOC/Lib/CommonLibrary.cs" Line="15" Column="2" />
+      <File FileName="SalesForcePOC/Pages/HomePage.cs" Line="15" Column="26" />
+      <File FileName="SalesForcePOC/Pages/LoginPage.cs" Line="49" Column="120" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SalesForcePOC" expanded="True">
+            <Node name="SalesForcePOC" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/home/Downloads/Salesforce_ECU/SalesForcePOC/SalesForcePOC/Pages/LoginPage.cs" relfile="SalesForcePOC/Pages/LoginPage.cs" line="22" column="1" />
+    <Breakpoint file="/Users/home/Downloads/Salesforce_ECU/SalesForcePOC/SalesForcePOC/Pages/LoginPage.cs" relfile="SalesForcePOC/Pages/LoginPage.cs" line="49" column="72" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SalesForcePOC PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
